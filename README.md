@@ -11,5 +11,8 @@ This repository is part of the Coursera course: [Python, Bash and SQL Essentials
 ## Exercise
 For this exercise, you will be using data from the [sample_data/](/../../tree/main/sample_data) and the [exercise.ipynb](/../../tree/main/exercise.ipynb) notebook. The notebook contains pre-written code that you can use to complete the exercise. Please refer to the Coursera instructions for details on how to complete this exercise.
 
+<p>In this task I read a csv file using pandas and converted it to a list of dictionaries.
+Then I retrieve only Red wines from this list and wrote them to JSON file using json library.</p>
+
 ## Questions or Issues?
 Please use the [Issues](/../../issues) tab to report any issues or ask questions. Any feedback is welcome!
